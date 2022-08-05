@@ -1,2 +1,4 @@
 # ios-atividade3
-Atividade prática da Unidade 3 da disciplina de Desenvolvimento iOS do curso de Desenvolvimento Mobile
+Aluno: José Diogo do Nascimento Castro
+Curso: Desenvolvimento Mobile
+Sala: 03/07/2022 a 07/08/2022
